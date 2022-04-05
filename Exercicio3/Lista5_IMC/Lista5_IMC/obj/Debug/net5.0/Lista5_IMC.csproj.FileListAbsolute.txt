@@ -1,0 +1,16 @@
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.exe
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.deps.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.runtimeconfig.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\bin\Debug\net5.0\Lista5_IMC.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\refint\Lista5_IMC.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\Lista5_IMC.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio3\Lista5_IMC\Lista5_IMC\obj\Debug\net5.0\ref\Lista5_IMC.dll
