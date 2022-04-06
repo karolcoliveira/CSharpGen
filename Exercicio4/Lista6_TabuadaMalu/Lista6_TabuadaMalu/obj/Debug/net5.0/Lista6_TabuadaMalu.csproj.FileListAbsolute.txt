@@ -1,0 +1,16 @@
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.exe
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.deps.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.runtimeconfig.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\bin\Debug\net5.0\Lista6_TabuadaMalu.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\refint\Lista6_TabuadaMalu.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\Lista6_TabuadaMalu.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio4\Lista6_TabuadaMalu\Lista6_TabuadaMalu\obj\Debug\net5.0\ref\Lista6_TabuadaMalu.dll
