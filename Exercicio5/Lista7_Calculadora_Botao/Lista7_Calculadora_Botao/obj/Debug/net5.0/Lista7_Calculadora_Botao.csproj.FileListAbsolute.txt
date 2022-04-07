@@ -1,0 +1,5 @@
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio5\Lista7_Calculadora_Botao\Lista7_Calculadora_Botao\obj\Debug\net5.0\Lista7_Calculadora_Botao.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio5\Lista7_Calculadora_Botao\Lista7_Calculadora_Botao\obj\Debug\net5.0\Lista7_Calculadora_Botao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio5\Lista7_Calculadora_Botao\Lista7_Calculadora_Botao\obj\Debug\net5.0\Lista7_Calculadora_Botao.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio5\Lista7_Calculadora_Botao\Lista7_Calculadora_Botao\obj\Debug\net5.0\Lista7_Calculadora_Botao.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio5\Lista7_Calculadora_Botao\Lista7_Calculadora_Botao\obj\Debug\net5.0\Lista7_Calculadora_Botao.csproj.CoreCompileInputs.cache
