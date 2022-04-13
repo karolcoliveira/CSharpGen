@@ -24,16 +24,16 @@ namespace Exercicio6.src
             Posicao = _Posicao;
             Geracao = _Geracao;
         }
-        public string ensaiar()
+        public void ensaiar()
         {
-            return "Estou ensaiando";
+            Console.WriteLine("Estou ensaiando");
         }
 
-        public string gravar()
+        public void gravar()
         {
             return "Estou gravando";
         }
-        public string descansar()
+        public void descansar()
         {
             return "Estou descansando";
         }

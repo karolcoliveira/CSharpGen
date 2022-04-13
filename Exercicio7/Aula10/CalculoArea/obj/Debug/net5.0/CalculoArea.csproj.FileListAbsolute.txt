@@ -1,0 +1,16 @@
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.exe
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.deps.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.runtimeconfig.dev.json
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\bin\Debug\net5.0\CalculoArea.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\refint\CalculoArea.dll
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.pdb
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\CalculoArea.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Documentos\DOTNETGen\Git\CSharpGen\Exercicio7\Aula10\CalculoArea\obj\Debug\net5.0\ref\CalculoArea.dll
