@@ -25,9 +25,5 @@ namespace Exercicio6
             minho.descansar();
             ningning.gravar();
         }
-
-
     }
-
-
 }

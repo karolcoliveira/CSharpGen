@@ -1,12 +1,9 @@
 ﻿using Exercicio6.src;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System;
 
 namespace Exercicio6.src
 {
-    public class Integrante   
+    public class Integrante
     {
         public string NomeInt { get; set; }
 
@@ -24,18 +21,21 @@ namespace Exercicio6.src
             Posicao = _Posicao;
             Geracao = _Geracao;
         }
+
         public void ensaiar()
         {
-            Console.WriteLine("Estou ensaiando");
+            Console.WriteLine($"{NomeInt} está ensaiando");
         }
 
         public void gravar()
         {
-            return "Estou gravando";
+            Console.WriteLine($"{NomeInt} está gravando");
+
         }
+
         public void descansar()
         {
-            return "Estou descansando";
+            Console.WriteLine($"{NomeInt} está descansando");
         }
 
     }
